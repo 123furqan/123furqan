@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/123furqan/static/css/main.2d7b447e.css",
+    "main.js": "/123furqan/static/js/main.f000b9c6.js",
+    "index.html": "/123furqan/index.html",
+    "main.2d7b447e.css.map": "/123furqan/static/css/main.2d7b447e.css.map",
+    "main.f000b9c6.js.map": "/123furqan/static/js/main.f000b9c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d7b447e.css",
+    "static/js/main.f000b9c6.js"
+  ]
+}
